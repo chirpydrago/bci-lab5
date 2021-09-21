@@ -13,8 +13,8 @@ function App() {
               Swap Silly Swap
             </div>
             <Swap
-              tokenA="0xe4Cb3981f2b376a45A643f859736e9F70Dd5530e"
-              tokenB="0xA819B7d51AFE640Fd3FE2bB190C7fe53EBD83857"
+              tokenA="0x42EbbB7E8741fa44beB19ef255Bd710F78e7E06D"
+              tokenB="0xB211465560967D628B300Af5bb2fe7CD6B4b2194"
             ></Swap>
           </div>
         </div>

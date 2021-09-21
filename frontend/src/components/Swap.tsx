@@ -2,9 +2,6 @@ import React, { useContext, useEffect, useState } from "react";
 import { ERC20Context , UniswapV2Router02Context , CurrentAddressContext } from "../hardhat/SymfoniContext";
 import { ERC20 } from "../hardhat/typechain/ERC20";
 import ethers from "ethers";
-import AppBody from "../AppBody";
-import App from "../App";
-import { inputOutputComparator } from "@sushiswap/sdk";
 
 interface Props {
     tokenA: string;
