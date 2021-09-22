@@ -2,6 +2,7 @@
 
 // File contracts/uniswapv2/interfaces/IUniswapV2Factory.sol
 
+
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity >=0.5.0;
@@ -27,7 +28,8 @@ interface IUniswapV2Factory {
 
 // File contracts/uniswapv2/libraries/SafeMath.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
@@ -50,7 +52,8 @@ library SafeMathUniswap {
 
 // File contracts/uniswapv2/UniswapV2ERC20.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
@@ -147,7 +150,8 @@ contract UniswapV2ERC20 {
 
 // File contracts/uniswapv2/libraries/Math.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
@@ -176,7 +180,8 @@ library Math {
 
 // File contracts/uniswapv2/libraries/UQ112x112.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
@@ -202,7 +207,8 @@ library UQ112x112 {
 
 // File contracts/uniswapv2/interfaces/IERC20.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity >=0.5.0;
 
@@ -225,7 +231,8 @@ interface IERC20Uniswap {
 
 // File contracts/uniswapv2/interfaces/IUniswapV2Callee.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity >=0.5.0;
 
@@ -236,7 +243,8 @@ interface IUniswapV2Callee {
 
 // File contracts/uniswapv2/UniswapV2Pair.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
@@ -452,7 +460,8 @@ contract UniswapV2Pair is UniswapV2ERC20 {
 
 // File contracts/uniswapv2/UniswapV2Factory.sol
 
-// SPDX-License-Identifier: GPL-3.0
+
+
 
 pragma solidity =0.6.12;
 
